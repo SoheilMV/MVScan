@@ -1,8 +1,4 @@
-<html>
-    <body>
-        <img src="https://s24.picofile.com/file/8451246626/mvscan.png" alt="" style="max-width:100%;">
-    </body>
-</html>
+![MVScan](https://s24.picofile.com/file/8451246626/mvscan.png)
 
 # MVScan
 Port Scanner
